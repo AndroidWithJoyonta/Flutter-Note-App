@@ -1,16 +1,9 @@
 # notepad
 
-A new Flutter project.
+<h2>📱 App Screenshots</h2>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<tr>
+    <td><img src="https://github.com/user-attachments/assets/0bd6b412-6826-416c-8442-64fed550a8d7" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6fa9b9ac-1906-4c7a-93ba-e55786822086" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/600d3715-b3a9-45a3-8d25-d76dc8f65835" width="250"/></td>
+  </tr>
